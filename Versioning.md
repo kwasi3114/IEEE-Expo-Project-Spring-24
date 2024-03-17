@@ -17,3 +17,4 @@ This project uses a versioning scheme based on the Semantic Versioning System. A
 ##### Version history
 0.1.0-pre_alpha
 0.1.1-pre_alpha
+0.1.2-pre_alpha

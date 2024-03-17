@@ -12,7 +12,9 @@ This project uses a versioning scheme based on the Semantic Versioning System. A
 
  #### Patches and minor bug fixes
   - Reserved for minor bug fixes, grammer/syntax editing, as well as adding more documentation.
+  - This number similarly can also go beyond *10*.
 
-##### Version history
-0.1.0-pre_alpha
-0.1.1-pre_alpha
+##### Version history (Earliest lowest)
+ - 0.1.0-pre_alpha
+ - 0.1.1-pre_alpha
+ - 0.1.2-pre_alpha
